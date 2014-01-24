@@ -1,7 +1,7 @@
-Title: galaxian-canvas-game
+Title: infinite-runner-html5-game
 Author: Steven Lambert
-Website: http://blog.sklambert.com/galaxian-html5-game/
-Description: A Galaxian Style HTML5 Canvas Game tutorial series.
+Website: http://blog.sklambert.com/infinite-runner-html5-game/
+Description: An Infinite Runner Style HTML5 Canvas Game tutorial series.
 
 Copyright (C) <2012> <Steven Lambert>
 
@@ -12,6 +12,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ========================================================================================================================
 
-Hosts the files and assets for a five part tutorial series on creating a Galaxian style HTML5 canvas game from scratch. The game is all self contained within each folder.
+Hosts the files and assets for a three part tutorial series on creating an Infinite Runner style HTML5 canvas game from scratch. The game is all self contained within each folder.
 
-The complete tutorial may be found at http://blog.sklambert.com/galaxian-html5-game/.
+The complete tutorial may be found at http://blog.sklambert.com/infinite-runner-html5-game/.
