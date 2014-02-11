@@ -1,7 +1,7 @@
-Title: infinite-runner-html5-game<br>
+Title: endless-runner-html5-game<br>
 Author: Steven Lambert<br>
-Website: http://blog.sklambert.com/infinite-runner-html5-game/<br>
-Description: An Infinite Runner style HTML5 canvas game tutorial series.
+Website: http://blog.sklambert.com/endless-runner-html5-game/<br>
+Description: An Endless Runner style HTML5 canvas game tutorial series.
 
 Copyright (C) 2012 Steven Lambert
 
@@ -11,6 +11,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
 - - -
-Hosts the files and assets for a three part tutorial series on creating an Infinite Runner style HTML5 canvas game from scratch. The game is all self contained within each folder.
+Hosts the files and assets for a three part tutorial series on creating an Endless Runner style HTML5 canvas game from scratch. The game is all self contained within each folder.
 
-The complete tutorial may be found at http://blog.sklambert.com/infinite-runner-html5-game/.
+The complete tutorial may be found at http://blog.sklambert.com/endless-runner-html5-game/.
