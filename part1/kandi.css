@@ -1,0 +1,28 @@
+body {
+  font-family: arial, sans-serif;
+  font-size: 16px;
+}
+
+.wrapper {
+  width: 600px;
+  height: 360px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid black;
+  z-index: 1;
+  width: 600px;
+  height: 360px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
