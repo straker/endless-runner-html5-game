@@ -3,7 +3,7 @@ Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/endless-runner-html5-game/<br>
 Description: An Endless Runner style HTML5 canvas game tutorial series.
 
-Copyright (C) 2012 Steven Lambert
+Copyright (C) 2014 Steven Lambert
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
