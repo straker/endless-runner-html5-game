@@ -1,7 +1,7 @@
 Title: endless-runner-html5-game<br>
 Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/endless-runner-html5-game/<br>
-Description: An Endless Runner style HTML5 canvas game tutorial series.
+Description: An Endless Runner style HTML5 canvas game tutorial series.</br>
 
 Copyright (C) 2014 Steven Lambert
 
